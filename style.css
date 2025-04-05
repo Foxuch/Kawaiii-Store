@@ -13,3 +13,43 @@
     border: 3px solid #5C7553 ;
 }
 
+.socialmedia{
+    display: flex;
+    justify-content: center;
+    position: relative;
+
+}
+
+.box_1 {
+    width: 10vh;
+    height: 10vh;
+    position: absolute;
+    top: 18vh;
+    left: 80vh;
+    
+}
+
+.box_0 {
+    width: 17vh;
+    height: 10vh;
+    position: absolute; 
+    top: 30vh;   
+    left: 76.5vh
+}
+
+.box_2{
+    width: 13vh;
+    height: 13vh;
+    position: absolute;
+    top: 42vh;
+    left: 78.5vh;
+
+}
+
+.box_3{
+    position: absolute;
+    top: 70vh;
+    font-size: 5vh;
+    width: 200vh
+}
+
